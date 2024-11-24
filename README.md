@@ -5,7 +5,6 @@
   ### - Schema
   ### - Retention Period
   ### - RBAC
-  ### - Topic creation formula
   ### - Replication Factor
 
 ## Consumers/Producers
