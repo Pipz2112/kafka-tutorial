@@ -1,33 +1,29 @@
 # Confluent Kafka
 
-##Topics
+## Topics
+  ### - Partitions
+  ### - Schema
+  ### - Retention Period
+  ### - RBAC
+  ### - Topic creation formula
+  ### - Replication Factor
 
-  ###Partitions
-  ###Schema
-  ###Retention Period
-  ###RBAC
-  ###Topic creation formula
-  ###Replication Factor
+## Consumers/Producers
+  ### - RBAC
+  ### - Schema versioning
 
-##Consumers/Producers
+## Connectors
+  ### - Source and Sink
+  ### - Subtypes
 
-  ###RBAC
-  ###Schema versioning
+## Alerts
+  ### - Consumer Lag	
 
-##Connectors
+## KSQL?
 
-  ###Source and Sink
-  ###Subtypes
+## Kafka Cloud?
 
-##Alerts
-
-  ###Consumer Lag	
-
-##KSQL?
-
-##Kafka Cloud?
-
-##What we’ve learned?
+## What we’ve learned?
 
 Confluent Developer:
 https://developer.confluent.io/
